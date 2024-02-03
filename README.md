@@ -3,39 +3,39 @@ This is Prashant Dangi. Below is a list of the languages and technologies i am g
 
 
 ## Languages
-- **JavaScript**: Main language for front-end development.
-- **Python**: Used for backend development and scripting.
-- **Java**: Employed for building robust and scalable applications.
-- **Bash**: Used for shell scripting and command-line utilities.
+- **JavaScript**
+- **Python**
+- **Java**
+- **Bash**
 
 ## Security Tools
-- **Wireshark**: Network protocol analyzer for in-depth network troubleshooting.
-- **Metasploit**: Penetration testing framework for developing, testing, and executing exploit code.
-- **Suricata**: High-performance Network IDS, IPS, and Network Security Monitoring (NSM) engine.
+- **Wireshark**
+- **Metasploit**
+- **Suricata**
 
 
 
 ## Front-end Technologies
-- **React**: A JavaScript library for building user interfaces.
-- **HTML5/CSS3**: Fundamental building blocks for web development.
-- **Sass**: CSS extension language to make stylesheets more maintainable.
+- **React**
+- **HTML5/CSS3**
+- **Sass**
 
 ## Back-end Technologies
-- **Node.js**: JavaScript runtime for server-side development.
-- **Django**: High-level Python web framework for rapid development.
+- **Node.js**
+- **Django**
 
 ## Database
-- **MongoDB**: NoSQL database for flexible and scalable data storage.
-- **PostgreSQL**: Object-relational database system for structured data.
+- **MongoDB**
+- **PostgreSQL**
 
 ## DevOps & Deployment
-- **Docker**: Containerization for consistent deployment across environments.
-- **Jenkins**: Automation server for continuous integration and delivery.
+- **Docker**
+- **Jenkins**
 
 ## Version Control
-- **Git**: Distributed version control system for tracking changes in source code.
+- **Git**
 
 ## Other Tools
-- **VS Code**: Code editor for efficient development.
-- **Postman**: API development and testing tool.
+- **VS Code**
+- **Postman**
 
