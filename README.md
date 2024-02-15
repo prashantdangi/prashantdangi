@@ -5,3 +5,8 @@
   <img  alt="Python" height="32px" src="./media/python.png"/>
   <img  alt="Neovim" height="32px" src="./media/neovim.png"/>
   <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
+  <img  alt="VSCode" height="32px" src="./media/vim.png"/>
+  <img  alt="VSCode" height="32px" src="./media/YAML.png"/>
+  <img  alt="VSCode" height="32px" src="./media/c.png"/>
+  <img  alt="VSCode" height="32px" src="./media/c++.jpg"/>
+  <img  alt="VSCode" height="32px" src="./media/docker.png"/>
