@@ -9,7 +9,7 @@
   <img  alt="vim" height="32px" src="./media/vim.jpg"/>
   <img  alt="Neovim" height="32px" src="./media/neovim.png"/>
   <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
-  <img  alt="docker" height="39px" src="./media/docker.png"/>
+  <img  alt="docker" height="32px" src="./media/docker.png"/>
   
   
 </p>
