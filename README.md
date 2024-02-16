@@ -7,7 +7,7 @@
   <img  alt="c++" height="36px" src="./media/c++.png"/>
   <img  alt="Shell" height="32px" src="./media/shell.png"/>
   <img  alt="Git" height="32px" src="./media/git.png"/>
-  <img  alt="java" height="34px" src="./media/java.png"/>
+  <img  alt="java" height="36px" src="./media/java.png"/>
   <img  alt="Python" height="32px" src="./media/python.png"/>
   <img  alt="YAML" height="32px" src="./media/YAML.png"/>
   <img  alt="vim" height="32px" src="./media/vim.png"/>
