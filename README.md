@@ -14,6 +14,6 @@
   <img  alt="Neovim" height="32px" src="./media/neovim.png"/>
   <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
   <img  alt="docker" height="30px" src="./media/docker.png"/>
-  <img  alt="aws" height="33px" src="./media/aws.png"/>
+  <img  alt="aws" height="31px" src="./media/aws.png"/>
   
 </p>
