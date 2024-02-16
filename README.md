@@ -1,5 +1,5 @@
  Hi! :octocat: This is ***0~x~d4ngi***
- > <p align ="center">
+ <p align ="center">
     <img  alt="c" height="32px" src="./media/c.png"/>
   <img  alt="c++" height="32px" src="./media/c++.png"/>
   <img  alt="Shell" height="32px" src="./media/shell.png"/>
