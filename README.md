@@ -1,4 +1,5 @@
  Hi! :octocat: This is ***0~x~d4ngi***
+> Some Tools and Technologies I am Comfortable working with ...
  <p align ="center">
     <img  alt="c" height="32px" src="./media/c.png"/>
   <img  alt="c++" height="32px" src="./media/c++.png"/>
