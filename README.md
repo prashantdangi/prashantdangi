@@ -1,6 +1,7 @@
  Hi! :octocat: This is ***0~x~d4ngi***
 > Some Tools and Technologies I am Comfortable working with ...
  <p>
+ <img  alt="docker" height="30px" src="./media/linux.png"/>
     <img  alt="c" height="32px" src="./media/c.png"/>
   <img  alt="c++" height="32px" src="./media/c++.png"/>
   <img  alt="Shell" height="32px" src="./media/shell.png"/>
