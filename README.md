@@ -16,6 +16,6 @@
   <img  alt="docker" height="30px" src="./media/docker.png"/>
   <img  alt="aws" height="31px" src="./media/aws.png"/>
   <img  alt="powerbi" height="31px" src="./media/powerbi.png"/>
-  <img alt="postman" height="31px" src=" "/>
+  <img alt="postman" height="31px" src="./media/postmann.png "/>
   
 </p>
