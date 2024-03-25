@@ -1,4 +1,5 @@
  Hi! :octocat: This is ***0~x~d4ngi***
+ Blogging Website : 0xd4ngi.github.io
 > Some Tools and Technologies I am Comfortable working with ...
  <p>
  <img  alt="linux" height="32px" src="./media/linux.png"/>
