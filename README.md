@@ -1,4 +1,4 @@
- Hi! :octocat: This is ***0~x~d4ngi*** </br>
+ Hi! :octocat: This is ***prashantdangi*** </br>
  Blogging Website : [prashantdangi.github.io](https://prashantdangi.github.io/)
 > Some Tools and Technologies I am Comfortable working with ...
  <p>
